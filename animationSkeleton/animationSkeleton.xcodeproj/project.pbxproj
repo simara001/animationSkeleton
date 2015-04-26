@@ -42,6 +42,7 @@
 		CB75A5031AEC707600268514 /* TransitionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB75A4E71AEC707600268514 /* TransitionManager.swift */; };
 		CB75A5041AEC707600268514 /* TransitionZoom.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB75A4E81AEC707600268514 /* TransitionZoom.swift */; };
 		CB75A5051AEC707600268514 /* UnwindSegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB75A4E91AEC707600268514 /* UnwindSegue.swift */; };
+		CB75A5081AEC718500268514 /* MARDesignableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB75A5071AEC718500268514 /* MARDesignableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,6 +96,7 @@
 		CB75A4E71AEC707600268514 /* TransitionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransitionManager.swift; sourceTree = "<group>"; };
 		CB75A4E81AEC707600268514 /* TransitionZoom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransitionZoom.swift; sourceTree = "<group>"; };
 		CB75A4E91AEC707600268514 /* UnwindSegue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnwindSegue.swift; sourceTree = "<group>"; };
+		CB75A5071AEC718500268514 /* MARDesignableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MARDesignableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 		CB75A4A71AEC700500268514 /* animationSkeleton */ = {
 			isa = PBXGroup;
 			children = (
+				CB75A5061AEC716D00268514 /* DesignablesExtension */,
 				CB75A4AA1AEC700500268514 /* AppDelegate.swift */,
 				CB75A4AC1AEC700500268514 /* ViewController.swift */,
 				CB75A4AE1AEC700500268514 /* Main.storyboard */,
@@ -207,6 +210,14 @@
 				CB75A4CB1AEC706000268514 /* SpringView.swift */,
 			);
 			name = SpringFramework;
+			sourceTree = "<group>";
+		};
+		CB75A5061AEC716D00268514 /* DesignablesExtension */ = {
+			isa = PBXGroup;
+			children = (
+				CB75A5071AEC718500268514 /* MARDesignableView.swift */,
+			);
+			name = DesignablesExtension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -328,6 +339,7 @@
 				CB75A4AB1AEC700500268514 /* AppDelegate.swift in Sources */,
 				CB75A4F21AEC707600268514 /* DesignableTextField.swift in Sources */,
 				CB75A5001AEC707600268514 /* SpringLabel.swift in Sources */,
+				CB75A5081AEC718500268514 /* MARDesignableView.swift in Sources */,
 				CB75A4EA1AEC707600268514 /* AsyncButton.swift in Sources */,
 				CB75A4EB1AEC707600268514 /* AsyncImageView.swift in Sources */,
 				CB75A4F31AEC707600268514 /* DesignableTextView.swift in Sources */,
