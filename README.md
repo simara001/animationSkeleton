@@ -37,7 +37,7 @@ Podrás encontrar el material del curso en el siguiente [link](https://github.co
 * Introducción a Layout
 * Seleccionar el tamaño de Canvas que necesitas
 * Las diferentes maneras de poner restricciones a los elementos
-* Ejemplo básico de posicionamiento de 3 vistas, aún cuando el aparato es rotado
+* Ejemplo básico de posicionamiento de 3 vistas
 * Cómo posicionar elementos con el mismo ancho a lo largo de la pantalla
 * Cómo hacer vistas con imágenes circulares
 * Cómo centrar textos adentro de las vistas
