@@ -19,6 +19,8 @@ Este curso está destinado para tres diferentes perfiles de personas interesadas
 
 ### Contenido del curso ###
 
+Podrás encontrar el material del curso en el siguiente [link](https://github.com/simara001/animationSkeleton)
+
 #### Introducción a XCode ####
 
 * Instalación de XCode
