@@ -547,6 +547,7 @@
 				CB75A4C61AEC700500268514 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CB75A4C71AEC700500268514 /* Build configuration list for PBXNativeTarget "animationSkeletonTests" */ = {
 			isa = XCConfigurationList;
@@ -555,6 +556,7 @@
 				CB75A4C91AEC700500268514 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
