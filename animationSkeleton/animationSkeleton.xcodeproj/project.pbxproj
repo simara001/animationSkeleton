@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB179DBD1AF6FF080052978E /* MARDesignableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB179DBC1AF6FF080052978E /* MARDesignableButton.swift */; };
 		CB75A4AB1AEC700500268514 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB75A4AA1AEC700500268514 /* AppDelegate.swift */; };
 		CB75A4AD1AEC700500268514 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB75A4AC1AEC700500268514 /* ViewController.swift */; };
 		CB75A4B01AEC700500268514 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB75A4AE1AEC700500268514 /* Main.storyboard */; };
@@ -56,6 +57,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CB179DBC1AF6FF080052978E /* MARDesignableButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MARDesignableButton.swift; sourceTree = "<group>"; };
 		CB75A4A51AEC700500268514 /* animationSkeleton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = animationSkeleton.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB75A4A91AEC700500268514 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB75A4AA1AEC700500268514 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -216,6 +218,7 @@
 			isa = PBXGroup;
 			children = (
 				CB75A5071AEC718500268514 /* MARDesignableView.swift */,
+				CB179DBC1AF6FF080052978E /* MARDesignableButton.swift */,
 			);
 			name = DesignablesExtension;
 			sourceTree = "<group>";
@@ -349,6 +352,7 @@
 				CB75A4FD1AEC707600268514 /* SpringAnimation.swift in Sources */,
 				CB75A5051AEC707600268514 /* UnwindSegue.swift in Sources */,
 				CB75A5031AEC707600268514 /* TransitionManager.swift in Sources */,
+				CB179DBD1AF6FF080052978E /* MARDesignableButton.swift in Sources */,
 				CB75A4EF1AEC707600268514 /* DesignableImageView.swift in Sources */,
 				CB75A4CC1AEC706000268514 /* SpringView.swift in Sources */,
 				CB75A5041AEC707600268514 /* TransitionZoom.swift in Sources */,
