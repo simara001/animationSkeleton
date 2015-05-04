@@ -30,6 +30,12 @@ import UIKit
         }
     }
     
+    @IBInspectable var backColor: UIColor = UIColor.clearColor() {
+        didSet {
+            layer.backgroundColor = backColor.CGColor
+        }
+    }
+    
     @IBInspectable var zIndex: CGFloat = 1 {
         didSet {
             layer.zPosition = zIndex
